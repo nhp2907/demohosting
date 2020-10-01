@@ -1,0 +1,14 @@
+{
+  "name": "demohosting",
+  "version": "1.0.0",
+  "description": "demo nodejs to hosting",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"  },
+  "author": "trung_phuc_quang",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
